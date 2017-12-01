@@ -1,0 +1,22 @@
+{
+  "name": "mod2_michael",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pro-congress-113-house.json.js",
+  "scripts": {
+    "dev2":"live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beldoron/mod2_michael.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beldoron/mod2_michael/issues"
+  },
+  "homepage": "https://github.com/Beldoron/mod2_michael#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}

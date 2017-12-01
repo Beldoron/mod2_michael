@@ -1,0 +1,41 @@
+- OOP (JSON)
+
+
+
+
+
+
+
+
+- API
+- AJAX
+
+asynchronus javascript callback funktion
+-> the way you talk to an api
+
+ 
+get & post -> how are we speaking to each other
+get = in the url
+post = ein bisschen sicherer aber teilweise immer noch zugänglich
+
+- SERVER (NODE)
+
+nodejs server aufsetzen 
+
+npm init (yes yes yes)
+
+-> file wird erstellt in dem ich scripts ändern muss
+
+(z.B:)
+
+von :  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+
+
+auf:  "scripts": {
+    "dev":"live-server"
+
+    danach npm install live-server --save-dev
+
+    npm run dev
